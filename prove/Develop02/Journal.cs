@@ -18,33 +18,33 @@ public class Journal
     // A method that displays each journal entry
     public void Display()
     {
-        Console.WriteLine("\n************** Journal Entries **************");
+        Console.WriteLine("\n-------------- Journal Entries --------------");
         foreach (JournalEntry journalEntry in _journal)
         {
             journalEntry.Display();
         }
-        Console.WriteLine("\n******************** End ********************");
+        Console.WriteLine("\n-------------------- End --------------------");
     }
 
     public void CreateJournalFile()
     // Method to check if txt file is created if not create one
     {
-        Console.Write("What your file name? ");
+        Console.Write("What is the file name? ");
         string userInput = Console.ReadLine();
         _userFileName = userInput + ".txt";
 
         if (!File.Exists(_userFileName))
         {
             File.CreateText(_userFileName);
-            Console.Write($"\n*** {_userFileName} has been created! ***\n");
-            Console.Write("***  Your journal entries have been saved. ***\n");
+            Console.Write($"\n--- {_userFileName} has been created! ---\n");
+            Console.Write("---  Your journal entries have been saved. ---\n");
             SaveJournalFile(_userFileName);
             CreateJSON(userInput);
         }
         else
         {
-            Console.Write($"\n*** {_userFileName} already exits. ***\n");
-            Console.Write("***  Your journal entries have been added. ***\n");
+            Console.Write($"\n--- {_userFileName} already exits. ---\n");
+            Console.Write("---  Your journal entries have been added. ---\n");
             AppendJournalFile(_userFileName);
         }
     }
@@ -76,7 +76,7 @@ public class Journal
     // Method to check if txt file is created and load it into the list.  
     // This should replace any current info in the list
     {
-        Console.Write("What your file name? ");
+        Console.Write("What is the file name? ");
         string userInput = Console.ReadLine();
         _userFileName = userInput + ".txt";
 
@@ -94,7 +94,9 @@ public class Journal
                 entry._journalPrompt = entries[2];
                 entry._journalEntry = entries[3];
 
-                _journal.Add(entry);
+                _journal.Add(entry); 
+                //edit
+                
             }
         }
     }
