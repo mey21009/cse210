@@ -1,0 +1,143 @@
+[
+    
+    {
+        "key": 1,
+        "book": "Isaiah",
+        "chapter": 43,
+        "verseStart": 2,
+        "verseEnd": 0,
+        "keyPhrase": "When thou passest through the waters,",
+        "text": "When thou passest through the waters, I will be with thee; and through the rivers, they shall not overflow thee: when thou walkest through the fire, thou shalt not be burned; neither shall the flame kindle upon thee."
+        
+    },
+        {
+            "key": 2,
+            "book": "1Nephi",
+            "chapter": 3,
+            "verseStart": 7,
+            "verseEnd": 0,
+            "keyPhrase": "I will go and do the things which the Lord hath commanded",
+            "text": "And it came to pass that I, Nephi, said unto my father: I will go and do the things which the Lord hath commanded, for I know that the Lord giveth no commandments unto the children of men, save he shall prepare a way for them that they may accomplish the thing which he commandeth them."
+           },
+           {
+            "key": 3,
+            "book": "Ether",
+            "chapter": 12,
+            "verseStart": 6,
+            "verseEnd": 0,
+            "keyPhrase": "Faith is things which are hoped for and not seen",
+            "text": "And now, I, Moroni, would speak somewhat concerning these things; I would show unto the world that faith is things which are hoped for and not seen; wherefore, dispute not because ye see not, for ye receive no witness until after the trial of your faith."
+           },
+           {
+            "key": 4,
+            "book": "Mosiah",
+            "chapter": 2,
+            "verseStart": 17,
+            "verseEnd": 0,
+            "keyPhrase": "When ye are in the service of your fellow beings ye are only in the service of your God.",
+            "text": "And behold, I tell you these things that ye may learn wisdom; that ye may learn that when ye are in the service of your fellow beings ye are only in the service of your God."
+           },
+
+
+           {
+            "key": 5,
+            "book": "Luke",
+            "chapter": 2,
+            "verseStart": 10,
+            "verseEnd": 12,
+            "keyPhrase": "For unto you is born this day in the city of David a Saviour, which is Christ the Lord",
+            "text": "And the angel said unto them, Fear not: for, behold, I bring you good tidings of great joy, which shall be to all people.  For unto you is born this day in the city of David a Saviour, which is Christ the Lord.  And this shall be a sign unto you; Ye shall find the babe wrapped in swaddling clothes, lying in a manger."
+           },
+           {
+            "key": 6,
+            "book": "Luke",
+            "chapter": 22,
+            "verseStart": 19,
+            "verseEnd": 20,
+            "keyPhrase": "Jesus Christ commanded, partake of the sacrament in remembrance of me",
+            "text": "And he took bread, and gave thanks, and brake it, and gave unto them, saying, This is my body which is given for you: this do in remembrance of me.  Likewise also the cup after supper, saying, This cup is the new testament in my blood, which is shed for you."
+           },
+           {
+            "key": 7,
+            "book": "Luke",
+            "chapter": 24,
+            "verseStart": 36,
+            "verseEnd": 39,
+            "keyPhrase": "For a spirit hath not flesh and bones, as ye see me have",
+            "text": "And as they thus spake, Jesus himself stood in the midst of them, and saith unto them, Peace be unto you.  But they were terrified and affrighted, and supposed that they had seen a spirit.  And he said unto them, Why are ye troubled? and why do thoughts arise in your hearts?  Behold my hands and my feet, that it is I myself: handle me, and see; for a spirit hath not flesh and bones, as ye see me have."
+           },
+           {
+            "key": 8,
+            "book": "John",
+            "chapter": 3,
+            "verseStart": 5,
+            "verseEnd": 0,
+            "keyPhrase": "Except a man be born of water, and of the Spirit, he cannot enter into the kingdom of God",
+            "text": "Jesus answered, Verily, verily, I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God."
+           },
+           {
+            "key": 9,
+            "book": "John",
+            "chapter": 3,
+            "verseStart": 16,
+            "verseEnd": 0,
+            "keyPhrase": "For God so loved the world, that he gave his only begotten Son",
+            "text": "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life."
+           },
+           {
+            "key": 10,
+            "book": "John",
+            "chapter": 7,
+            "verseStart": 17,
+            "verseEnd": 0,
+            "keyPhrase": "If any man will do his will, he shall know of the doctrine",
+            "text": "If any man will do his will, he shall know of the doctrine, whether it be of God, or whether I speak of myself."
+           },
+           {
+            "key": 11,
+            "book": "John",
+            "chapter": 17,
+            "verseStart": 3,
+            "verseEnd": 0,
+            "keyPhrase": "And this is life eternal, that they might know thee the only true God, and Jesus Christ",
+            "text": "And this is life eternal, that they might know thee the only true God, and Jesus Christ, whom thou hast sent."
+           },
+           {
+            "key": 12,
+            "book": "1 Corinthians",
+            "chapter": 6,
+            "verseStart": 19,
+            "verseEnd": 20,
+            "keyPhrase": "Your body is the temple of the Holy Ghost",
+            "text": "What? know ye not that your body is the temple of the Holy Ghost which is in you, which ye have of God, and ye are not your own?  For ye are bought with a price: therefore glorify God in your body, and in your spirit, which are God’s."
+           },
+           {
+            "key": 13,
+            "book": "1 Corinthians",
+            "chapter": 11,
+            "verseStart": 11,
+            "verseEnd": 0,
+            "keyPhrase": "Neither is the man without the woman, neither the woman without the man, in the Lord",
+            "text": "Nevertheless neither is the man without the woman, neither the woman without the man, in the Lord."
+           },
+        {
+        "key": 14,
+        "book": "1 Corinthians",
+        "chapter": 15,
+        "verseStart": 20,
+        "verseEnd": 22,
+        "keyPhrase": "As in Adam all die, even so in Christ shall all be made alive",
+        "text": "But now is Christ risen from the dead, and become the first fruits of them that slept.  For since by man came death, by man came also the resurrection of the dead.   For as in Adam all die, even so in Christ shall all be made alive."
+       },
+       {
+        "key": 15,
+        "book": "1 Corinthians",
+        "chapter": 15,
+        "verseStart": 40,
+        "verseEnd": 42,
+        "keyPhrase": "In the Resurrection, there are three degrees of glory",
+        "text": "There are also celestial bodies, and bodies terrestrial: but the glory of the celestial is one, and the glory of the terrestrial is another.  There is one glory of the sun, and another glory of the moon, and another glory of the stars: for one star differeth from another star in glory.   So also is the resurrection of the dead. It is sown in corruption; it is raised in incorruption:"
+       }
+
+]
+       
