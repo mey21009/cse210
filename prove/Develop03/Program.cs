@@ -14,7 +14,7 @@ class Program
         reference.LoadReference();
         Scripture scripture = new Scripture();
         scripture.LoadScriptures();
-        Words word = new Words();
+        Words words = new Words();
 
         Console.Write("\n---- Welcome to the Scripture Memorizer App ----\n");
 
@@ -35,17 +35,17 @@ class Program
                 case 2:
                     string script = scripture.RandomScripture();
                     string ref1 = reference.GetReference(scripture);
-                    word.GetRenderedText(scripture);
-                    word.GetRenderedRef(scripture);
-                    // word.GetRenderedRef(reference);
+                    words.GetRenderedText(scripture);
+                    words.GetRenderedRef(scripture);
+                    // words.GetRenderedRef(reference);
                     // Console.Write($"\n{ref1}\n{script}\n");
 
-                    while (word._hidden.Count < word._result.Length)
+                    while (words._hidden.Count < words._result.Length)
                     {
-                        word.Show(ref1);
-                        word.GetReadKey();
+                        words.Show(ref1);
+                        words.GetReadKey();
                     }
-                    word.Show(ref1);
+                    words.Show(ref1);
                     break;
                 case 3:
                     Console.WriteLine("\n--- Thanks for playing! ---\n");
