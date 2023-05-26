@@ -1,0 +1,3 @@
+00|t|0
+1|crochet|crochet|30|False
+1|school|school|35|False
