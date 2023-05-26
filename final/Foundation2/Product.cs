@@ -19,7 +19,7 @@ public class Product
         _totalPrice = _individualPrice * _quantity;
     }
 
-    //GETTERS
+   
     public string GetProductName()
     {
         return _name;
