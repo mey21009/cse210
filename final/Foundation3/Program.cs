@@ -17,7 +17,7 @@ class Program
         for(int i = 0; i < 3; i++)
         {
             Console.WriteLine("-------------------------------------------------");
-            Console.WriteLine($"Event N°: {i + 1}");
+            Console.WriteLine($"Event No: {i + 1}");
             Console.WriteLine("\n-STANDARD DETAILS-");
             Console.WriteLine(events[i].StandardDetails());
             Console.WriteLine("-SHORT DETAILS- ");
